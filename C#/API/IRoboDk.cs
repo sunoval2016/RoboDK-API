@@ -1,11 +1,11 @@
 ﻿#region Namespaces
 
 using System.Diagnostics;
-using RoboDk.API.Model;
+using RoboDK.API.Model;
 
 #endregion
 
-namespace RoboDk.API
+namespace RoboDK.API
 {
     public interface IRoboDK
     {
@@ -36,7 +36,7 @@ namespace RoboDk.API
         /// </summary>
         void Disconnect();
 
-        void SetWindowState(WindowState windowState);
+        void setWindowState(WindowState windowState);
 
         Item AddFile(string filename, Item parent = null);
 

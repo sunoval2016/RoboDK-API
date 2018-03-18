@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RoboDk.API.Model
+namespace RoboDK.API.Model
 {
     public class UpdateResult
     {

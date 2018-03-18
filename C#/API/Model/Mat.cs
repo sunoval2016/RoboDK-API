@@ -40,11 +40,11 @@
 #region Namespaces
 
 using System;
-using RoboDk.API.Exceptions;
+using RoboDK.API.Exceptions;
 
 #endregion
 
-namespace RoboDk.API.Model
+namespace RoboDK.API.Model
 {
     /// <summary>
     /// Matrix class for robotics.
@@ -774,6 +774,10 @@ namespace RoboDk.API.Model
         public static Mat operator *(double n, Mat m)
         {
             return Multiply(n, m);
+        }
+        public static double[] operator *(Mat m, double[] n)
+        {
+            return Mat.Multiply(m, n);
         }
 
         #endregion

@@ -6,7 +6,7 @@ using System.Runtime.Serialization;
 
 #endregion
 
-namespace RoboDk.API.Exceptions
+namespace RoboDK.API.Exceptions
 {
     /// <summary>
     /// Class used for RoboDK exceptions

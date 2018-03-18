@@ -39,7 +39,7 @@
 
 
 
-namespace RoboDk.API.Model
+namespace RoboDK.API.Model
 {
     // Script execution types
     public enum RunMode

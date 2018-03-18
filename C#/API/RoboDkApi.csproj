@@ -7,9 +7,9 @@
     <ProjectGuid>{04A95C1B-05AA-4688-AC2E-035F08CCF33B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RoboDk.API</RootNamespace>
-    <AssemblyName>RoboDkApi</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <RootNamespace>RoboDK.API</RootNamespace>
+    <AssemblyName>RoboDKApi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -62,7 +62,7 @@
     <Compile Include="Model\ReferenceCalibrationType.cs" />
     <Compile Include="RoboDK.cs" />
     <Compile Include="RoboDKLink.cs" />
-    <Compile Include="Model\RoboDkWindowFlags.cs" />
+    <Compile Include="Model\RoboDKWindowFlags.cs" />
     <Compile Include="Model\RunMode.cs" />
     <Compile Include="Model\SprayGunStates.cs" />
     <Compile Include="Model\TcpCalibrationType.cs" />

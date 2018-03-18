@@ -39,7 +39,7 @@
 
 
 
-namespace RoboDk.API.Model
+namespace RoboDK.API.Model
 {
     // Instruction types
     public enum InstructionType

@@ -43,7 +43,7 @@ using System;
 
 #endregion
 
-namespace RoboDk.API.Exceptions
+namespace RoboDK.API.Exceptions
 {
     /// <summary>
     /// Class used for Matrix exceptions

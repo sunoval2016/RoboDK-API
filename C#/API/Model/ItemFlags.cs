@@ -40,7 +40,7 @@
 using System;
 
 
-namespace RoboDk.API.Model
+namespace RoboDK.API.Model
 {
     // RoboDK Item Flags
     [Flags]

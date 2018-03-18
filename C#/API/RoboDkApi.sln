@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboDkApi", "RoboDkApi.csproj", "{04A95C1B-05AA-4688-AC2E-035F08CCF33B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboDKApi", "RoboDKApi.csproj", "{04A95C1B-05AA-4688-AC2E-035F08CCF33B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
